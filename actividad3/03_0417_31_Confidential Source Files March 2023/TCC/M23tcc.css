@@ -1,0 +1,15 @@
+/*Sofia Perez UY027 0016*/
+body {
+	background: #6d040a;
+}
+h1,h2,h3,p{
+	font-family: Domino, "Dominio Regular", serif ;
+	color: #ffff00;
+}
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	border-width: 0px;
+}
